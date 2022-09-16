@@ -1,6 +1,6 @@
 ## Olá, eu sou o João Vitor Alvarenga!
 
-- 3º período Ciência da Computação
+- 5º período Ciência da Computação
 - Estudando Javascript
 
 <div align="center">
