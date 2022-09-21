@@ -1,7 +1,6 @@
 ## Olá, eu sou o João Vitor Alvarenga!
 
-- 5º período Ciência da Computação
-- Estudando Javascript
+Ingressei na faculdade UFRJ no curso de Ciências da Computação em 2020, atualmente estou no 5º período, tive experiência de 2 períodos em monitoria e atualmente participo de um projeto de extensão focado em desenvolvimento de aplicativos e estou buscando desenvolver novas habilidades com JavaScript.
 
 <div align="center">
   <a href="https://github.com/alvarengajv">
