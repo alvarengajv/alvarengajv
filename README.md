@@ -2,6 +2,7 @@
 
 Estudante do 5º período de Ciências da Computação na UFRJ, com experiência de 2 períodos em monitoria, atualmente colaborando em um projeto de extensão focado em desenvolvimento de aplicativos e em busca de uma oportunidade de entrar no mercado.
 
+
 <div align="center">
   <a href="https://github.com/alvarengajv">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alvarengajv&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
