@@ -1,6 +1,6 @@
 ## Olá, eu sou o João Vitor Alvarenga!
 
-Estudante do 5º período de Ciências da Computação na UFRJ, com experiência de 2 períodos em monitoria, atualmente colaborando em um projeto de extensão focado em desenvolvimento de aplicativos e em busca de uma oportunidade de entrar no mercado.
+Estudante do 5º período de Ciência da Computação na UFRJ, com experiência de 2 períodos em monitoria, atualmente colaborando em um projeto de extensão focado em desenvolvimento de aplicativos e em busca de uma oportunidade de entrar no mercado.
 
 
 <div align="center">
