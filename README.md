@@ -6,7 +6,7 @@ Estudante do 5º período de Ciência da Computação na UFRJ, com experiência 
 <div align="center">
   <a href="https://github.com/alvarengajv">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alvarengajv&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-python-stats.vercel.app/api/top-langs/?username=alvarengajv&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarengajv&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
  ##
