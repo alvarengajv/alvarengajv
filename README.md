@@ -1,7 +1,6 @@
 ## Olá, eu sou o João Vitor Alvarenga!
 
-Estudante do 7º período de Ciência da Computação na UFRJ, com experiência de 2 períodos em monitoria, atualmente colaborando em um projeto de extensão focado em desenvolvimento de aplicativos e em busca de uma oportunidade de entrar no mercado.
-
+Estudante do 7º período de Ciência da Computação na UFRJ, com experiência de 2 períodos em monitoria, atualmente colaborando em um projeto de extensão focado em desenvolvimento de aplicativos (ProMOVE) e trainee na liga acadêmica de ciência de dados (UFRJ Analytica).
 
 <div align="center">
   <a href="https://github.com/alvarengajv">
