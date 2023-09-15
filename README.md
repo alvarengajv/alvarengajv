@@ -2,11 +2,7 @@
 
 Estudante do 7º período de Ciência da Computação na UFRJ, com experiência de 2 períodos em monitoria, atualmente colaborando em um projeto de extensão focado em desenvolvimento de aplicativos (ProMOVE) e trainee na liga acadêmica de ciência de dados (UFRJ Analytica).
 
-<div align="center">
-  <a href="https://github.com/alvarengajv">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alvarengajv&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarengajv&layout=compact&langs_count=7&theme=dark"/>
-</div>
+
   
  ##
   
