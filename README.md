@@ -1,7 +1,7 @@
 ## Olá, eu sou o João Vitor Alvarenga!
 
-Estudante do 8º período de Ciência da Computação na UFRJ, atualmente, membro efetivo da liga acadêmica de ciência de dados (UFRJ Analytica) e estagiário de desenvolvimento na Levius Consulting. 
-<br/>
+Estudante do 8º período de Ciência da Computação na UFRJ, atualmente, membro efetivo da liga acadêmica de ciência de dados (UFRJ Analytica) e estagiário de desenvolvimento na Levius Consulting. <br>
+
 
 <div align="center">
   <a href="https://github.com/alvarengajv">
