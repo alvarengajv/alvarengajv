@@ -1,6 +1,6 @@
 ## Olá, eu sou o João Vitor Alvarenga!
 
-Estudante do 8º período de Ciência da Computação na UFRJ, atualmente, membro efetivo da liga acadêmica de ciência de dados (UFRJ Analytica). <br>
+Estudante de Ciência da Computação na UFRJ, membro da liga de Ciência de Dados (UFRJ Analytica) e voluntário no IBA Devs. Experiência no desenvolvimento de APIs utilizando Flask e Vue, além de sólidos conhecimentos em bancos de dados. Criativo, proativo e adaptável, com facilidade para trabalho em equipe e aplicação de práticas de desenvolvimento ágil. <br>
 
 
 <div align="center">
@@ -12,4 +12,4 @@ Estudante do 8º período de Ciência da Computação na UFRJ, atualmente, membr
   
   <div align="center"> 
   <a href = "mailto:joaovla@dcc.ufrj.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-lopes-alvarenga-bb78591a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="[https://www.linkedin.com/in/jo%C3%A3o-vitor-lopes-alvarenga-bb78591a4/](https://www.linkedin.com/in/alvarengajv/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
