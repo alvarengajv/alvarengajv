@@ -12,4 +12,4 @@ Estudante de Ciência da Computação na UFRJ, membro da liga de Ciência de Dad
   
   <div align="center"> 
   <a href = "mailto:joaovla@dcc.ufrj.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="[https://www.linkedin.com/in/jo%C3%A3o-vitor-lopes-alvarenga-bb78591a4/](https://www.linkedin.com/in/alvarengajv/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/alvarengajv/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
