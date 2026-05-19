@@ -1,4 +1,4 @@
-## Olá, eu sou o João Vitor Alvarenga!
+## Olá, eu sou o João Alvarenga!
 
 Estudante de Ciência da Computação na UFRJ, membro da liga de Ciência de Dados (UFRJ Analytica) e voluntário no IBA Devs. Experiência no desenvolvimento de APIs utilizando Flask e Vue, além de sólidos conhecimentos em bancos de dados. Criativo, proativo e adaptável, com facilidade para trabalho em equipe e aplicação de práticas de desenvolvimento ágil. <br>
 
